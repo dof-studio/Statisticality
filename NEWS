@@ -1,9 +1,12 @@
 // NEWS
-// "../NEWS"
+// ./"NEWS"
 // NEWS
 
-VERSION 0.0.8.1247.230920
-    -> Original Release
+if(__VERSION__ == "0.0.8.1247.230920")
+{
+    NEWS = { Original Release,
+    }
+}
 
 // NEWS
 //

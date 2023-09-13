@@ -2,16 +2,16 @@
 // ./"LIBRARIES"
 // LIBRARIES
 
-REGISTERED_NO,            LIBRARY_NAME,              CURRENT_VERSION,              PROVIDER,                                                   LIB_LINK,        UPDATE_DATE,
+REGISTERED_NO,            LIBRARY_NAME,              CURRENT_VERSION,              PROVIDER,      UPDATE_DATE,                                           LIBRARY_LINK,       
 DESCRIPTION,   
 
 [Statisdata]
-0x00000000000,              Statisdata,       beta 0.0.8.1247.230920,            DOF Studio,               https://github.com/dof-studio/Statisticality,         2023-09-20,
+0x00000000000,              Statisdata,       beta 0.0.8.1247.230920,            DOF Studio,       2023-09-20,           https://github.com/dof-studio/Statisticality,
 A set of offifical released public structural and non-structural datasets - provided within the lib Statisticality - with all sorts of demonstrative data to utilize and exploit the library Statisticality,
 This library is currently released with a binary version - built in a DLL on Windows platform - allowing users to call C/C++ functions to order and fetch relative data,
 Data included in this version of Statisdata currently contained 5 pieces of different kinds in the "Statisticality::dataframe" structure,
 Please refer to our provided header "Statisdata.hpp" to find more information about their structures and usage,
 
-[...]
- ... // Single Line
- ... // Multiple Lines
+[...] // Note that "REGISTERED_NO" is a First-Come-First-Served and Unique number. For third party libraries, this number starts from 0x00000001000
+ ...  // Single Line with mandatory information to show
+ ...  // Multiple Lines with arbitrary information you want to provide

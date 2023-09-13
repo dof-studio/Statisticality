@@ -1,0 +1,6 @@
+// LIBRARIES
+// ./"LIBRARIES"
+// LIBRARIES
+
+LIB_NO,          LIBRARY_NAME,              CURRENT_VERSION,              PROVIDER,                                                   LIB_LINK,                                                                                               DESCRIPTION,                             
+     0,            Statisdata,       beta 0.0.8.1247.230920,            DOF Studio,               https://github.com/dof-studio/Statisticality,  A offifical released public structural and non-structural dataset - provided with library Statisticality,

@@ -8,9 +8,9 @@ DESCRIPTION,
 [Statisdata]
 0x00000000000,              Statisdata,       beta 0.0.8.1247.230920,            DOF Studio,               https://github.com/dof-studio/Statisticality,         2023-09-20,
 A set of offifical released public structural and non-structural datasets - provided within the lib Statisticality - with all sorts of demonstrative data to utilize and exploit the library Statisticality,
-This library is currently released with a binary version, built in a DLL on Windows platform, allowing users to call C/C++ functions to order and fetch relative data,
-Currently, data included in this version of Statisdata contains 5 kinkds of data in "Statisticality::dataframe" structure,
-Please refer the header of "Statisdata.hpp" to find more information about their structures and usage,
+This library is currently released with a binary version - built in a DLL on Windows platform - allowing users to call C/C++ functions to order and fetch relative data,
+Data included in this version of Statisdata currently contained 5 pieces of different kinds in the "Statisticality::dataframe" structure,
+Please refer to our provided header "Statisdata.hpp" to find more information about their structures and usage,
 
 [...]
  ... // Single Line

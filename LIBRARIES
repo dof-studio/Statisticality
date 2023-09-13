@@ -2,7 +2,11 @@
 // ./"LIBRARIES"
 // LIBRARIES
 
-REGISTERED_NO,          LIBRARY_NAME,              CURRENT_VERSION,              PROVIDER,                                                   LIB_LINK,        UPDATE_DATE,
-DESCRIPTION,                             
-            0,            Statisdata,       beta 0.0.8.1247.230920,            DOF Studio,               https://github.com/dof-studio/Statisticality,         2023-09-20,
-An offifical released public structural and non-structural dataset - provided with library Statisticality,
+REGISTERED_NO,            LIBRARY_NAME,              CURRENT_VERSION,              PROVIDER,                                                   LIB_LINK,        UPDATE_DATE,
+DESCRIPTION,   
+
+[Statisdata]
+            0,              Statisdata,       beta 0.0.8.1247.230920,            DOF Studio,               https://github.com/dof-studio/Statisticality,         2023-09-20,
+An offifical released public structural and non-structural dataset - provided with library Statisticality - containing all sorts of demonstrative data to utilize and exploit the library Statisticality,
+
+[...]

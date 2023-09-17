@@ -76,5 +76,6 @@ Is going to be initially released on SEP 20TH.
 # 09. Notifications
 
 
+# 10. Update Schedules
 
 DOF Studio, 2023.

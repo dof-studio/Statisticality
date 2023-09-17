@@ -5,68 +5,50 @@
 Is going to be initially released on SEP 20TH.
 
 
-
 # Modules
--> Statistics
---
+### Statistics
+- `base`
+- `distribution`
+### StatType
+- `matrix` : A fundamental data structure for 2 dimensional, homogeneous typed data storage, mathematical computation, and IO.
+- `dataframe` : A fundamental data structure for 2 dimensional, hetereogeneous typed data storage, transformation, and IO.
+- `factor` : A fundamental data structure for 1 demensional, highly retupational data storage and mathematical computation.
+### StatRuntime
+- `runtime`
+### StatUtils
+- `Str`
+- `Atom`
+- `FILE`
+- `ThreadPool`
+- `Compress`
+### Econometrics
+- `OLS`
+### Mathematics
+- `Solution`
+### FinTech
+- `Option`
+- `BinaryTreePricing`
+- `MentoCarloPricing`
+### DataBase
+- `ChoiceXls`
+- `WindXls`
 
--> StatType
---
-- matrix    -- A fundamental data structure for 2 dimensional, homogeneous typed data storage, mathematical computation, and IO
---
-- dataframe -- A fundamental data structure for 2 dimensional, hetereogeneous typed data storage, transformation, and IO
---
-- factor    -- A fundamental data structure for 1 demensional, highly retupational data storage and mathematical computation
---
 
--> SolyRuntime
---
-- runtime
---
-
--> StatUtils
---
-- Str
---
-- Atom
---
-- FILE
---
-- ThreadPool
---
-- Compress
---
-
--> Econometrics
---
-- OLS
---
-
--> FinTech
---
-- Options
---
-- BinaryTreePricing
---
-- MentoCarloPricing
---
-
--> DataBase
---
-- ChoiceXls
---
-- WindXls
---
 
 # Future Updates
--> Coming soon
---
-- decimal (StatType)
---
-- 
-
--> Later
---
-- list (StatType)
-
+### Coming soon
+- `decimal` (StatType)
+- `Decimal` (StatType)
+- `runtimeServer` (UniRuntime)
+- `Bonds` (FinTech)
+- `regexparser` (StatUtils)
+- `tidyverse` (TidyVerse)
+- `tests` (Econometrics)
+- `...`
+### Later
+- `list` (StatType)
+- `plot` (StatGrapher)
+- `dbIO` (DataBase)
+- `strategy` (FinTech)
+- `...`
 

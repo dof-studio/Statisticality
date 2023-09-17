@@ -49,6 +49,7 @@ Is going to be initially released on SEP 20TH.
 ### Coming Soon
 - `argparser` (StatUtils)
 - `regexparser` (StatUtils)
+- `setupWizard` (StatUtils)
 - `decimal` (StatType)
 - `Decimal` (StatType)
 - `runtimeServer` (UniRuntime)

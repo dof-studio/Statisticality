@@ -31,10 +31,11 @@ Is going to be initially released on SEP 20TH.
 - `ThreadPool`
 - `Compress`
 ### Econometrics
-- `OLS`
+- `regression`
 ### Mathematics
 - `Solution`
 ### FinTech
+- `finaUtils`
 - `portfolio`
 - `Option`
 - `BinaryTreePricing`
@@ -62,6 +63,8 @@ Is going to be initially released on SEP 20TH.
 - `plot` (StatGrapher)
 - `dbIO` (DataBase)
 - `strategy` (FinTech)
+- `knn` (DataMining)
+- `naiveBayes` (DataMining)
 - `...`
 
 

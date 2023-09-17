@@ -5,7 +5,7 @@
 Is going to be initially released on SEP 20TH.
 
 
-# Modules
+# 04.Modules
 ### Statistics
 - `base`
 - `distribution`
@@ -35,7 +35,7 @@ Is going to be initially released on SEP 20TH.
 
 
 
-# Future Updates
+# 05.Future Updates
 ### Coming soon
 - `decimal` (StatType)
 - `Decimal` (StatType)

@@ -45,13 +45,13 @@ Is going to be initially released on SEP 20TH.
 - `WindXls`
 ### Scripts
 - `runtime`
-- `compreter`
 - `sclB2E`
 - `sclE2B`
 
 
 # 05. Future Updates
 ### Coming Soon
+- `compreter` (Scripts)
 - `argparser` (StatUtils)
 - `regexparser` (StatUtils)
 - `setupWizard` (StatUtils)

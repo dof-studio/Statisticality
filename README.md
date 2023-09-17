@@ -45,7 +45,7 @@ Is going to be initially released on SEP 20TH.
 
 
 # 05. Future Updates
-### Coming soon
+### Coming Soon
 - `argparser` (StatUtils)
 - `regexparser` (StatUtils)
 - `decimal` (StatType)
@@ -55,7 +55,7 @@ Is going to be initially released on SEP 20TH.
 - `tidyverse` (TidyVerse)
 - `tests` (Econometrics)
 - `...`
-### Later
+### Later On
 - `list` (StatType)
 - `plot` (StatGrapher)
 - `dbIO` (DataBase)

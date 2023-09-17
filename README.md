@@ -35,6 +35,7 @@ Is going to be initially released on SEP 20TH.
 ### Mathematics
 - `Solution`
 ### FinTech
+- `portfolio`
 - `Option`
 - `BinaryTreePricing`
 - `MentoCarloPricing`

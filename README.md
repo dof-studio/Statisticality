@@ -27,7 +27,9 @@ Is going to be initially released on SEP 20TH.
 - `Str`
 - `Atom`
 - `FILE`
-- `cmd`
+- `exe`
+- `Clock`
+- `AdminAccess`
 - `ThreadPool`
 - `Compress`
 ### Econometrics

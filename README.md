@@ -93,7 +93,7 @@ Hence, this software is based on `conditional Apache License Version 2.0`, which
 - 3. The user is, or belongs to an organization that is regarded as an explicit prohibitive user we listed below.
      - `Nankai University, China`
 
-If you satisfy ANY ONE of those prohibitive terms listed above, this software is PROHIBITED for you to use.
+If you satisfy ANY ONE of those prohibitive terms listed above, this software is PROHIBITED for you to use. Otherwise, your using limitation belongs to stipulations in `Apache License Version 2.0`.
 
 
 

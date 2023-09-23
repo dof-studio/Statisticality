@@ -20,7 +20,6 @@ Is going to be initially released on SEP 20TH.
 ### StatType
 - `matrix` : A fundamental data structure for 2 dimensional, homogeneous typed data storage, mathematical computation, and IO.
 - `dataframe` : A fundamental data structure for 2 dimensional, hetereogeneous typed data storage, transformation, and IO.
-- `factor` : A fundamental data structure for 1 demensional, highly retupational data storage and mathematical computation.
 ### StatRuntime
 - `runtime`
 ### StatUtils
@@ -37,6 +36,7 @@ Is going to be initially released on SEP 20TH.
 - `regression`
 ### Mathematics
 - `Solution`
+- `Calculus`
 ### FinTech
 - `finaUtils`
 - `portfolio`
@@ -60,6 +60,10 @@ Is going to be initially released on SEP 20TH.
 - `setupWizard` (StatUtils)
 - `decimal` (StatType)
 - `Decimal` (StatType)
+- `dict` (StatType)
+- `set` (StatType)
+- `factor` (StatType)
+- `vector_view` (StatType)
 - `runtimeServer` (UniRuntime)
 - `Bonds` (FinTech)
 - `tidyverse` (TidyVerse)

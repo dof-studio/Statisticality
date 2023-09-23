@@ -29,6 +29,7 @@ Is going to be initially released on SEP 20TH.
 - `FILE`
 - `exe`
 - `Clock`
+- `DateTime`
 - `AdminAccess`
 - `ThreadPool`
 - `Compress`

@@ -90,13 +90,12 @@ Is going to be initially released in Later of September, 2023.
 
 # 09. Notifications
 ### License Exception
-Please read the following terms carefully and check whether you, or your entity satisfy the requirement of using this software `Statisticality`.
+Please read the following terms carefully and check whether you, or your entity, satisfy the requirement of using this software `Statisticality`.
 Our team DOF Studio is a non-profitable organization which aims at pursuing a world without War, Discrimination, Unequity, and Anti-democracy.
 Hence, this software is based on a `conditional Apache License Version 2.0`, which allows anybody to use, commercially use, redistribute, or modify the software EXCEPT:
 - 1. The user is, or belongs to a military related organization.
 - 2. The user is, or belongs to an organization whose targets offend DOF Studio's basic aims.
 - 3. The user is, or belongs to an organization that is regarded as an explicit prohibitive user we listed below.
-     - `Nankai University, China`
 
 If you satisfy ANY ONE of those prohibitive terms listed above, this software is PROHIBITED for you to use. Otherwise, your using limitation belongs to stipulations in `Apache License Version 2.0`.
 

@@ -2,7 +2,7 @@
 
 
 
-Is going to be initially released in Later of September, 2023.
+Is going to be initially released in Later of September, 2024.
 
 # 01. Introduction
 
